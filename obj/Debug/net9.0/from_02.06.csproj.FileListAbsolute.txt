@@ -1,0 +1,14 @@
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/bin/Debug/net9.0/from_02.06
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/bin/Debug/net9.0/from_02.06.deps.json
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/bin/Debug/net9.0/from_02.06.runtimeconfig.json
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/bin/Debug/net9.0/from_02.06.dll
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/bin/Debug/net9.0/from_02.06.pdb
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/obj/Debug/net9.0/from_02.06.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/obj/Debug/net9.0/from_02.06.AssemblyInfoInputs.cache
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/obj/Debug/net9.0/from_02.06.AssemblyInfo.cs
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/obj/Debug/net9.0/from_02.06.csproj.CoreCompileInputs.cache
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/obj/Debug/net9.0/from_02.06.dll
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/obj/Debug/net9.0/refint/from_02.06.dll
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/obj/Debug/net9.0/from_02.06.pdb
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/obj/Debug/net9.0/from_02.06.genruntimeconfig.cache
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/from_02.06/obj/Debug/net9.0/ref/from_02.06.dll
